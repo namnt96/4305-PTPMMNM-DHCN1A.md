@@ -1,3 +1,9 @@
+#-----------------------------------------------------------
+# THUC HIEN NHAP DAY SO N PHAN TU TU BAN PHIM
+# IN RA MAN HINH DAY VUA NHAP
+#-----------------------------------------------------------
+
+#commit lan 1
 clear
 
 echo "Nhap n: "
